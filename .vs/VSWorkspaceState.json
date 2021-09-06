@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodoApi",
+    "\\TodoApi\\Controller",
+    "\\TodoApi\\Core",
+    "\\TodoApi\\Core\\Context",
+    "\\TodoApi\\Core\\Factory"
+  ],
+  "SelectedNode": "\\TodoApi.sln",
+  "PreviewInSolutionExplorer": false
+}
